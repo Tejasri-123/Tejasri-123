@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Tejasri
-
+![](https://komarev.com/ghpvc/?username=Tejasri-123&style=flat)
 
 #### About Me
 
