@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Tejasri
+<h1 align="center">Hello 👋, I'm Tejasri</h1>
+
 ![](https://komarev.com/ghpvc/?username=Tejasri-123&style=flat) 
 
 #### About Me
