@@ -30,6 +30,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tejasri-123&show_icons=true&theme=tokyonight" />
 
 
-  <img align="left" Width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasri-123&hide_progress=true" />
+  <img align="right" Width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasri-123&hide_progress=true" />
 
 
